@@ -1,2 +1,2 @@
 # OCNN
-creat mmi with pcm in
+通过一个任意分束比的1*2分光器实现卷积层权重的可替代 
